@@ -1,0 +1,21 @@
+ssh-keygen -t rsa -C "youremail@example.com"
+ssh -T git@github.com  #查看绑定是否成功
+git config --global user.name "your name"
+git config --global user.email "lterduo@qq.com"
+
+git init
+git clone https://github.com/lterduo/test.git
+git clone https://github.com/lterduo/test.git mypro
+git clone git://github.com/lterduo/test.git
+
+git init
+git add .
+git commit  -m 'version 1.0.0'
+git remote add origin https://github.com//lterduo/test.git
+git push origin master
+
+git add README
+git commit -m 'first commit'
+git push origin master
+
+git pull
