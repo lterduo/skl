@@ -109,6 +109,7 @@ def add(request):
     import codecs  # 中文问题
 
     filename = './json/' +'rmrb'+ str(pubtime) + '0'+ str(i) + '.json'
+    data['number'] = '10'+ pubtime+'0'+ str(i)
     with codecs.open(filename, 'w', 'utf-8') as f:
         json.dump(data, f, sort_keys=False , indent=4, separators=(',', ': '), ensure_ascii=False)
 
