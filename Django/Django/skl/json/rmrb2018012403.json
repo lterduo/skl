@@ -1,0 +1,158 @@
+{
+    "number": "102018012403",
+    "title": "对智慧城市的新拓展  智慧社会为社会信息化指明方向",
+    "title_en": "",
+    "title_sub": "",
+    "author": [
+        {
+            "name": "单志广",
+            "organization": "国家信息中心信息化和产业发展部 主任、中国智慧城市发展研究中心 秘书长"
+        }
+    ],
+    "source": {
+        "name": "人民日报",
+        "issue": "",
+        "category": "报刊"
+    },
+    "keywords": "",
+    "abstract": "",
+    "abstract_en": "",
+    "references": "",
+    "publish_time": "2018-01-24",
+    "base_category": "重要报刊",
+    "base_sub_category": "人民日报",
+    "subject_category": {
+        "first_class": "",
+        "second_class": "",
+        "third_class": ""
+    },
+    "contents": [
+        {
+            "chapter": [
+                {
+                    "name": "",
+                    "section": [
+                        {
+                            "name": "",
+                            "sentences": [
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "党的十九大报告在论述加快建设创新型国家时，提出了“智慧社会”这一让人耳目一新的概念。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "“智慧社会”概念是对“智慧城市”概念的发展，建设智慧社会对于深入推进新型智慧城市建设、实现“四化”同步发展、实施乡村振兴战略等都具有重要现实意义，为社会信息化指明了方向，为我国经济社会发展提供了新动力。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "“智慧社会”概念是对“智慧城市”概念的中国化和时代化。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "“智慧城市”是由IBM公司于2008年底提出的“智慧地球”一词演化而来的。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "近年来，我国在吸收借鉴国际经验的基础上大胆创新，智慧城市建设已从理念转化为实践。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "特别是2015年12月中央城市工作会议召开以后，以新型智慧城市建设为引领，我国智慧城市建设在理念、内涵、目标、路径、模式等方面都体现出鲜明的中国特色。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "我国新型智慧城市建设的理念创新、技术创新、管理创新、模式创新、融资创新等不断为全球城镇化和信息化深度融合、城市文明创新发展提供了中国方案。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "正是在这一基础上，党的十九大报告提出建设智慧社会。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "这是一项重要的理论创新，是对新时代我国社会发展前景的展望，具有重大的理论意义和现实意义。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "有助于实现“四化”同步发展。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "党的十九大报告提出“推动新型工业化、信息化、城镇化、农业现代化同步发展”。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "“四化”同步发展不是“四化”平行推进、等量推进的“齐步走”，而是有机结合、互为动力。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "与西方发达国家串联式、递进式、接力式的“四化”发展模式不同，我国“四化”发展具有并发式、叠加式、跨越式的鲜明特征。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "智慧社会正是“四化”同步发展的基本载体，也将是“四化”同步发展的必然结果。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "当前，我国“四化”同步发展仍面临融合不够、互动不足、协调不力、同步水平不高、区域差异较大等突出问题。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "根据国家信息中心测算，我国东部、中部、东北、西部地区“四化”同步系数均值还有一定差距，分别处于“良好协调”“中级协调”“初级协调”“勉强协调”的不同阶段。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "建设智慧社会，有利于充分发挥信息化的核心引领作用，坚持新型工业化的主导地位，不断完善城镇化的载体和平台功能，强化农业现代化的基础作用，从而更好实现“四化”同步发展。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "在建设智慧社会具体路径上，要加快网络强国和数字中国建设，增强“四化”同步发展的提升力；大力推进制造强国建设，发展现代服务业，强化“四化”同步发展的牵引力；建设新型智慧城市和宜居城市，提高“四化”同步发展的承载力；大力推进农业现代化和新农村建设，提升“四化”同步发展的支撑力。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "有助于解决城乡智慧化发展不平衡不充分问题。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "我国智慧城市建设在快速发展过程中也存在顾城市不顾乡村、城乡数字鸿沟变大等问题。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "提出建设智慧社会，是在我国新型智慧城市发展实践基础上的理念创新，体现了智慧城市和智慧乡村的有机结合，反映了新时代推进城乡融合发展的根本要求。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "智慧社会建设有利于从社会发展全局出发进行城乡统筹、城乡一体的智慧化发展顶层设计，构建以东促西、以城带乡、以强扶弱的智慧社会建设新格局，发挥智慧城市以及城市群、城市带、智慧小镇的引领辐射作用，以网络化、平台化、远程化等信息化方式提高全社会基本公共服务的覆盖面和均等化水平，构筑立体化、全方位、广覆盖的社会信息服务体系。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "total_page_size": 1,
+    "total_size": 1412,
+    "url": ""
+}

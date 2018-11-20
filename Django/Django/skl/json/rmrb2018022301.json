@@ -1,0 +1,509 @@
+{
+    "number": "102018022301",
+    "title": "增强学术自信 讲清中国道路",
+    "title_en": "",
+    "title_sub": "",
+    "author": [
+        {
+            "name": "郝永平",
+            "organization": "中央党校习近平新时代中国特色社会主义思想研究中心"
+        },
+        {
+            "name": "黄相怀",
+            "organization": "中央党校习近平新时代中国特色社会主义思想研究中心"
+        }
+    ],
+    "source": {
+        "name": "人民日报",
+        "issue": "",
+        "category": "报刊"
+    },
+    "keywords": "",
+    "abstract": "",
+    "abstract_en": "",
+    "references": "",
+    "publish_time": "2018-02-23",
+    "base_category": "重要报刊",
+    "base_sub_category": "人民日报",
+    "subject_category": {
+        "first_class": "",
+        "second_class": "",
+        "third_class": ""
+    },
+    "contents": [
+        {
+            "chapter": [
+                {
+                    "name": "",
+                    "section": [
+                        {
+                            "name": "",
+                            "sentences": [
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "党的十九大报告指出，中国特色社会主义进入新时代，意味着中国特色社会主义道路、理论、制度、文化不断发展，拓展了发展中国家走向现代化的途径，给世界上那些既希望加快发展又希望保持自身独立性的国家和民族提供了全新选择，为解决人类问题贡献了中国智慧和中国方案。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "可以说，中国道路的成功正在改变世人对人类社会发展道路特别是现代化道路的固有看法，越来越彰显出其世界意义。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "对于中国学者来说，讲清中国道路既是一件非常重要的政治任务，又是一件非常严肃的学术研究工作。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter": [
+                {
+                    "name": "讲清中国道路，对中国和世界发展都具有重要意义",
+                    "section": [
+                        {
+                            "name": "",
+                            "sentences": [
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "讲清中国道路，对中国和世界发展都具有重要意义"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "今天，中国与世界的联系日益密切。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "向世界讲清中国道路，对当今中国和当今世界发展都具有重要意义。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国走近世界舞台中央并发挥更大作用的客观需要。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "经过改革开放40年的艰苦奋斗和艰辛探索，中国创造了人类社会发展史上惊天动地的奇迹，社会生产力水平显著提高，人民生活水平显著提高，国际影响力和话语权显著提高。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "特别是2008年国际金融危机爆发和2010年中国超越日本成为世界第二大经济体以来，中国国际地位愈益凸显，以更加稳健、自信的步伐走近世界舞台中央。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "当今世界，在推进经济全球化、处理重大国际事务上，在建构更加公正合理的国际秩序方面，中国都发挥着不可替代的建设性作用，很难想象离开中国的世界会是什么样子。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "因此，中国需要向世界传递更多中国声音，更好地展示中国的国家形象，让世界更加了解中国、接受中国、认可中国。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "为世界提供中国智慧和中国方案的现实需要。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "正如习近平同志所讲，“世界那么大，问题那么多，国际社会期待听到中国声音、看到中国方案”。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "当前，主要发达国家经济复苏缓慢，经济社会发展遭遇各种困境，人类对于探索更好社会制度有了更加迫切的需要。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "而广大发展中国家不仅有着与中国相似的历史境遇，而且面临着如何发展经济、改善民生和保持稳定这些躲不开、绕不过的治国理政难题。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "相比之下，中国的发展积累了很多行之有效、值得长期坚持的成功经验，赢得世界普遍赞誉。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国道路的成功实践和宝贵经验彰显中国智慧，为全球治理提供了极有价值的参考经验，给世界特别是广大发展中国家探索符合自身国情的发展道路塑造了一个十分难得、可资借鉴的好样板。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "随着中国日益走近世界舞台中央，处在这样一个引领世界的大趋势和大潮流之中，中国学者应当增强向全世界讲清中国道路的信心和能力。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "澄清西方社会对中国的偏见与误读的必然要求。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "如何破解在一个人口众多、贫困落后的国家实现现代化的难题？"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "世界上没有先例。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国不仅破解了这一难题，而且做得很好。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "今天，中国在现代化建设中取得了举世瞩目的伟大成就，为世界发展作出重要贡献。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "但是，囿于意识形态偏见，甚至出于不可告人的政治目的，一些西方势力习惯于透过“有色眼镜”看中国道路与中国发展，“中国崩溃论”“中国威胁论”等不绝于耳、甚嚣尘上，质疑、指责甚至攻击中国的现象此起彼伏。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "对此，中国学者不能熟视无睹，更不能听之任之。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国学者在澄清偏见和误读上可以大有作为。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "应通过学术传播与对话的方式来解读中国发展的密码与中国道路的价值，最大程度避免西方社会对中国的误解、误读、误会。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter": [
+                {
+                    "name": "讲清中国道路要把握好几个方面",
+                    "section": [
+                        {
+                            "name": "",
+                            "sentences": [
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "讲清中国道路要把握好几个方面"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "向世界讲清中国道路，要解决好讲什么的问题。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "从实际情况来看，需要把握好以下几个方面。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国道路是一条来之不易的道路。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国道路不是从天上掉下来的，而是中国共产党领导中国人民历经千辛万苦、付出各种代价才找到的适合中国国情的正确道路。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "这条道路经由几代中国共产党人带领人民通过接续不断的实践创新和理论探索才形成，充满着苦难和辉煌、曲折和胜利、付出和收获，是经过实践检验的正确道路，来之不易、弥足珍贵。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "具有历史厚重感的中国道路既是历史的必然，又是人民的选择。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国人民必须倍加珍惜，切不可犯颠覆性错误。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国道路是一条具有独特优势的道路。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国道路具有无可比拟的独特优势。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "比如，从经济体制上看，社会主义市场经济体制充分发挥市场和政府的作用，既保证了经济活力，又保证了宏观经济稳定，是先进的经济体制。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "从政治体制上看，中国政党制度是先进的、成功的，中国共产党领导的多党合作的政党制度能够发扬民主、集思广益，同时能够避免西方两党制、多党制所造成的党争不断、效率低下问题。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "从文化体制上看，中国特色社会主义文化建设既保证了马克思主义的指导地位，又激发全民族文化创新创造活力，推动社会主义文化繁荣兴盛。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国道路遵循人类社会发展的基本规律，顺应和平、发展、合作、共赢的时代潮流，能妥善处理经济社会发展中的重大关系，因而具有无限光明前景，必将越走越宽广。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国道路是一条造福人民的道路。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国道路具有丰富内涵，蕴含多姿多彩的理论元素，充满博大精深的中国智慧。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国道路致力于满足人民日益增长的美好生活需要，增进人民福祉，促进人的全面发展，逐步实现全体人民共同富裕。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国道路坚持凝聚人民力量，尊重人民、依靠人民、为了人民，以实现人民的根本利益为出发点和落脚点。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "从改革开放以来的历史进程看，正是由于我们党顺应人民群众对美好生活的向往，秉持以人民为中心的发展思想，才充分调动起人民群众投身社会主义现代化建设的积极性主动性创造性，才使人民群众享有更多更公平的发展成果。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "仅就脱贫而言，近5年来，中国使6800多万贫困人口稳定脱贫，贫困发生率从10.2%下降到3.1%。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国道路之所以显示出越来越大的能量，就在于人民群众的积极认同、衷心拥护与全力参与。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国道路是一条贡献世界的道路。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "近年来，随着改革开放深入推进，中国国力不断增强，影响力持续提升，为世界作出的贡献与日俱增。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "“中国道路究竟能为世界贡献什么”，成为今天必须回答的“时代之问”。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "总体来讲，中国道路至少向世界作出了五大历史性贡献：生存性贡献、发展性贡献、制度性贡献、文化性贡献、和平性贡献。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国倡导世界多样、国家平等、文明互鉴、包容发展、互利互惠，推动构建人类命运共同体。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "近年来，中国对外贸易、对外投资、外汇储备稳居世界前列，对世界经济增长的贡献率超过30%。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "这就是中国道路世界贡献的有力证明。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国用马克思主义智慧、东方智慧解决现代化难题，把现代化模式由单项选择题变成多项选择题，促进了人类文明发展的多样性。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter": [
+                {
+                    "name": "增强学术自信，以学理打动人心",
+                    "section": [
+                        {
+                            "name": "",
+                            "sentences": [
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "增强学术自信，以学理打动人心"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国学者向世界讲清中国道路，不能空喊口号，不能自说自话，不能强加于人，而必须强化学术表达、传播、交流与对话，用学术诠释事实，以学理打动人心。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "增强学术自信。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "习近平同志在党的十九大报告中指出，经过长期努力，中国特色社会主义进入了新时代，这是我国发展新的历史方位。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国学者要牢牢把握中国特色社会主义进入新时代这个根本性变化，筑牢思想根基，增强道路自信、理论自信、制度自信和文化自信，站在新时代的历史方位上讲好中国故事，站在整个世界的高度来系统讲清中国道路。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "自信和底气来自哪里？"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "来自中国特色社会主义实践的伟大成就，来自放眼世界风景这边独好的优势。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国学者要构建中国自己的学术体系和话语体系，向国际社会诠释中国经验、贡献中国智慧，充分体现中国学者的学术担当和学术造诣。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "要用中国特色学术思想讲好中国故事、传播中国声音，向世界贡献中国学术礼物。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "借鉴学术成果。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国的发展成就引起世界的持续关注，特别是吸引着国际学术界的目光。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "海外已经掀起中国问题研究热潮，不少知名机构和学者还取得了相当可观的积极成果。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国学者要坚持不忘本来、吸收外来、面向未来，深化中国道路和当代中国问题研究。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "既要立足本国实际，又要开门搞研究；既要注重原创、以我为主，又要兼收并蓄、为我所用，积极借鉴、吸纳海外学者的研究成果。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "比如，近年来海外学者关于中国模式、中国经验、中国经济发展、中国民主政治建设和执政党建设的最新研究成果，在视角、方法、见解方面都具有一定的启示和借鉴意义，可以成为我们加强学术研究的参考。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国学者要增强开放意识和国际交流意识，坚持以我为主，通过广泛学习借鉴，使中国学术话语、学术体系以及学术成果更具有时代性和国际性，更容易为国际学术界和国际社会所接受。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "加强学术交流。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "随着中国的发展，中国学者的话语权正在由没有资格说、自言自语说以及失语无法说向部分引领说深刻转变，这个转变过程其实就是中国学术由理论辩护、理论阐释走向理论引领的过程。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "实现理论引领，向世界表达中国话语，解读中国方案，讲清中国道路，需要“走出去”与“请进来”，高度重视学术交流互鉴。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "要搭建学术交流平台，积极参与国际双边多边学术活动，充分利用好各级别各层次国际论坛、讲坛和会议，建立长期而稳定的高端学术对话机制，提高学术交流质量；拓宽学术交流领域，充分表达中国的价值理念，倡导和增进人类命运共同体共识；加强国内外智库交流，引导具有影响力和说服力的学术成果走出去，推动海外中国学研究，让世界更好地认识中国、了解中国。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "加快学术创新。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "时代是思想之母，实践是理论之源。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "理论的生命力在于创新。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国学者要秉持科学的治学态度和治学方法，切实增强创新意识，在学术命题、学术思想、学术观点、学术话语上充分体现中国特色、中国风格、中国气派，不断概括、提炼新概念、新范畴、新体系、新表述，有效增强学术成果的创新性与亲和力，彰显中国学者准确阐释中国道路的时代担当。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "习近平同志指出：“要围绕我国和世界发展面临的重大问题，着力提出能够体现中国立场、中国智慧、中国价值的理念、主张、方案。”"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "中国学者要强化学术积累，夯实学术基础，涵养学术道德，拓宽学术视野，注重历史与现实、理论与实践融合，提高学术成果的解释力。"
+                                },
+                                {
+                                    "page_num": 1,
+                                    "is_cross_page": false,
+                                    "sentence": "充分发挥专业特色和学术专长，进一步提炼与优化对外宣传话语，跳出用西方话语解读中国现实的窠臼，努力多出让关心中国道路和中国发展的人都爱读的高质量学术成果。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "total_page_size": 1,
+    "total_size": 3998,
+    "url": ""
+}

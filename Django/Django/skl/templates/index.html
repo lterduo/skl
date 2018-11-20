@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>文章录入</title>
+	<script src="index.js"></script>
+</head>
+<body>
+<form action="/add/" method="get">
+    标题: <input type="text"  name="title"> <br>
+	副标题:<input type="text" name="title_sub"> <br>
+	作者1: <input type="text" name="author_name1"> <br>
+    作者2: <input type="text" name="author_name2"> <br>
+    作者3: <input type="text" name="author_name3"> <br>
+	报刊: <select name="source_name">
+		<option value="人民日报">人民日报</option>
+		<option value="光明日报">光明日报</option>
+		<option value="解放军报">解放军报</option>
+		<option value="北京日报">北京日报</option>
+		<option value="经济日报">经济日报</option>
+		</select><br>
+	发表时间:<input type="text" name="publish_time"> <br>
+    摘要: <br>
+    <textarea rows="3" cols="30" name="abstract">
+</textarea><br>
+    内容：<br>
+    <textarea rows="20" cols="30" name = 'content'>
+    </textarea><br>
+    作者单位1: <br>
+    <textarea rows="1" cols="200"  name="author_org1">
+    </textarea> <br>
+    作者单位2: <input type="text" name="author_org2"> <br>
+    作者单位3: <input type="text" name="author_org3"> <br>
+    <input type="submit" value="提交">
+</form>
+</body>
+</html>
+
