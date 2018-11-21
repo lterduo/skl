@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40898685-82a6-4df9-b902-4213ed3e1ceb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Django.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/.idea/Django.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/jsonnum/number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/jsonnum/rmrb2018010201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/learn_crawler/rmrb1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/learn_crawler/rmrb2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/learn_crawler/rmrb3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/learn_crawler/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/learn_crawler/test_beautifulsoup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/learn_crawler/test_request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/learn_crawler/test_xpath.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/learn_re/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/learn_re/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/learn_re/re_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/learn_re/test1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/.idea/skl.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/initdb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010203.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010301.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010302.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010303.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010402.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010403.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010501.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010502.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010503.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010801.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010802.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010803.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010804.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010901.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010902.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010903.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018010904.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011001.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011002.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011003.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011004.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011101.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011102.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011103.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011104.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011203.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011204.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011501.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011502.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011503.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011504.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011601.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011602.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011603.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011604.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011701.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011702.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011703.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011704.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011801.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011802.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011803.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011804.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011901.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011902.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011903.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018011904.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012203.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012204.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012301.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012302.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012303.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012304.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012402.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012403.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012404.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012501.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012502.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012503.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012504.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012601.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012602.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012603.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012604.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012901.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012902.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012903.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012904.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018012905.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018013001.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018013002.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018013003.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018013004.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018013101.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018013102.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018013103.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018013104.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020101.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020102.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020103.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020104.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020203.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020204.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020501.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020502.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020503.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020504.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020601.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020602.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020603.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020604.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020701.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020702.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020703.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020704.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020705.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020801.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020802.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020803.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020804.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020901.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020902.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020903.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020904.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018020905.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018021201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018021202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018021203.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018021204.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018021301.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018021302.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018021303.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018021304.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018021401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018021402.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018021403.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018021404.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022203.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022204.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022205.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022301.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022302.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022303.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022304.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022601.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022602.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022603.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022604.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022701.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022702.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022703.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022704.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022801.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022802.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022803.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018022804.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030101.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030102.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030103.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030104.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030203.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030501.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030502.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030503.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030504.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030701.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030702.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030703.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030704.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030801.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030802.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030803.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030901.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030902.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030903.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030904.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018030905.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031203.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031204.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031301.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031302.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031303.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031304.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031402.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031403.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031404.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031405.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031501.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031502.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031503.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031504.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031601.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031602.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031603.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031604.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031605.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031901.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031902.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031903.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018031904.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032001.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032002.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032003.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032004.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032005.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032203.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032204.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032301.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032302.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032303.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032304.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032601.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032602.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032603.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032604.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032701.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032702.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032703.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032704.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032901.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032902.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032903.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018032904.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018033001.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018033002.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018033003.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json/rmrb2018033004.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/json2018-01-03.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/skl/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/skl/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/skl/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/skl/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/templates/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/templates/seccess.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/tojson/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/tojson/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/tojson/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/tojson/duanju.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/tojson/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/tojson/migrations/0002_blog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/tojson/migrations/0003_author.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/tojson/migrations/0004_entry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/tojson/migrations/0005_auto_20181025_1628.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/tojson/migrations/0006_auto_20181025_1708.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/tojson/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/tojson/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/tojson/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/skl/tojson/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/jsonnum/number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/jsonnum/rmrb2018010201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/.idea/skl.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/initdb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010203.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010301.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010302.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010303.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010402.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010403.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010501.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010502.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010503.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010801.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010802.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010803.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010804.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010901.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010902.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010903.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018010904.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011001.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011002.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011003.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011004.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011101.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011102.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011103.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011104.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011203.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011204.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011501.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011502.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011503.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011504.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011601.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011602.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011603.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011604.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011701.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011702.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011703.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011704.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011801.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011802.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011803.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011804.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011901.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011902.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011903.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018011904.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012203.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012204.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012301.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012302.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012303.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012304.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012402.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012403.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012404.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012501.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012502.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012503.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012504.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012601.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012602.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012603.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012604.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012901.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012902.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012903.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012904.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018012905.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018013001.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018013002.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018013003.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018013004.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018013101.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018013102.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018013103.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018013104.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020101.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020102.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020103.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020104.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020203.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020204.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020501.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020502.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020503.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020504.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020601.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020602.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020603.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020604.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020701.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020702.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020703.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020704.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020705.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020801.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020802.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020803.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020804.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020901.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020902.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020903.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020904.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018020905.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018021201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018021202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018021203.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018021204.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018021301.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018021302.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018021303.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018021304.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018021401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018021402.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018021403.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018021404.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022203.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022204.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022205.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022301.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022302.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022303.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022304.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022601.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022602.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022603.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022604.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022701.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022702.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022703.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022704.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022801.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022802.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022803.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018022804.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030101.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030102.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030103.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030104.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030203.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030501.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030502.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030503.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030504.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030701.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030702.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030703.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030704.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030801.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030802.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030803.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030901.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030902.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030903.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030904.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018030905.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031203.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031204.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031301.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031302.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031303.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031304.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031402.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031403.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031404.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031405.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031501.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031502.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031503.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031504.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031601.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031602.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031603.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031604.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031605.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031901.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031902.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031903.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018031904.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032001.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032002.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032003.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032004.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032005.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032203.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032204.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032301.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032302.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032303.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032304.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032601.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032602.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032603.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032604.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032701.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032702.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032703.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032704.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032901.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032902.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032903.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018032904.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018033001.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018033002.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018033003.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json/rmrb2018033004.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/json2018-01-03.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/skl/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/skl/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/skl/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/skl/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/templates/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/templates/seccess.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/tojson/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/tojson/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/tojson/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/tojson/duanju.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/tojson/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/tojson/migrations/0002_blog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/tojson/migrations/0003_author.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/tojson/migrations/0004_entry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/tojson/migrations/0005_auto_20181025_1628.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/tojson/migrations/0006_auto_20181025_1708.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/tojson/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/tojson/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/tojson/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/skl/tojson/views.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1349338543">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="48" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="2118238979">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_crawler/test_xpath.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_crawler/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn_crawler/test_request.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-726" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_crawler/test_beautifulsoup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/learn_crawler/test_beautifulsoup.py" />
+        <option value="$PROJECT_DIR$/learn_crawler/test_xpath.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="test_xpath" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_crawler/test_xpath.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_xpath" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40898685-82a6-4df9-b902-4213ed3e1ceb" name="Default Changelist" comment="" />
+      <created>1542701017300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542701017300</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25642672" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32884097" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/learn_crawler/views.py" />
+    <entry file="file://$PROJECT_DIR$/skl/tojson/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_crawler/test_xpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_crawler/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_crawler/test_beautifulsoup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_crawler/test_request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-726" />
+      </provider>
+    </entry>
+  </component>
+</project>
