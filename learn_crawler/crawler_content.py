@@ -49,7 +49,7 @@ def json_save(url,headers): # 爬取正文，生成json并保存
     chap = [] #取chapter名称和位置
     i = 0
     while i < len(sens):
-        print("sens: " + i + '  '+ sens[i])
+        print("sens: " + str(i) + '  '+ sens[i])
         if sens[i][-1] not in ('。', '！', '？', '…', '”'):
             location.append(i)
         i = i + 1
@@ -92,15 +92,13 @@ def json_save(url,headers): # 爬取正文，生成json并保存
     pubtime = publish_time[0:4] + publish_time[5:7] + publish_time[8:10]
     number = int()
     print(pubtime,'    ',publish_time)
-    s = os.listdir('./json/')
-    #rmrb2018112301.json
-    i = 1
-    for s1 in s:
-        if s1[4:12] == pubtime and s1[-4:] =='json':
-            i = i + 1
+
+    s = re.findall('renmrb_\d\d\d\d\d\d\d\d_\d', url)[0] #renmrb_20180815_1
+    print(s)
+
     import codecs  # 中文问题
-    filename = './json/' +'rmrb'+ str(pubtime) + '0'+ str(i) + '.json'
-    data['number'] = '10'+ pubtime+'0'+ str(i)
+    filename = './json/' + s + '.json'
+    data['number'] = '10'+ pubtime+'0'+ s[-1]
     with codecs.open(filename, 'w', 'utf-8') as f:
         json.dump(data, f, sort_keys=False , indent=4, separators=(',', ': '), ensure_ascii=False)
 
