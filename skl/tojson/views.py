@@ -67,7 +67,7 @@ def add(request):
             location.pop()
     chaptername = ''
     if len(location) == 0:
-        chap.append({"name": chaptername, "loc1": 0, "loc2": len(sens)-1})
+        chap.append({"name": chaptername, "loc1": 0, "loc2": len(sens)})
     j = 0
     if len(location) != 0:
         for i in location:

@@ -49,7 +49,7 @@ def json_save(url,headers): # 爬取正文，生成json并保存
     chap = [] #取chapter名称和位置
     i = 0
     while i < len(sens):
-        print("sens:   " + sens[i])
+        print("sens: " + i + '  '+ sens[i])
         if sens[i][-1] not in ('。', '！', '？', '…', '”'):
             location.append(i)
         i = i + 1
@@ -58,7 +58,7 @@ def json_save(url,headers): # 爬取正文，生成json并保存
             location.pop()
     chaptername = ''
     if len(location) == 0:
-        chap.append({"name": chaptername, "loc1": 0, "loc2": len(sens)-1})
+        chap.append({"name": chaptername, "loc1": 0, "loc2": len(sens)})
     j = 0
     if len(location) != 0:
         for i in location:
@@ -75,6 +75,7 @@ def json_save(url,headers): # 爬取正文，生成json并保存
         loc2 = c["loc2"]
         for sen1 in sens[loc1:loc2]:
             sentences.append({"page_num": 1, "is_cross_page": False, 'sentence': sen1})
+
         sections = [{'name': '', "sentences": sentences}]
         chapters = [{'name': c["name"], 'section': sections}]
         contents.append({"chapter": chapters})
